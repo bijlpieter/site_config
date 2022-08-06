@@ -1,7 +1,7 @@
 ems:
     bess:
         Pcharge:
-            max: 400
+            max: 450
             min: 20
         Pdischarge:
             max: 350
