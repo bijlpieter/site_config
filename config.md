@@ -13,3 +13,6 @@ ems:
 
     ventilators:
         update_interval: 900
+
+    pv:
+        odn_limiting: 1000
